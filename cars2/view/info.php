@@ -1,8 +1,8 @@
 <?php
 ob_start();
 ?>
-<h2>Page INFO</h2>
-<h1>Our location</h1>
+<h2>Video Info</h2>
+
 <div class="container">
     <div class="row">
         <div class="col">

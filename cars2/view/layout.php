@@ -19,7 +19,7 @@
                         ?>
                     </ul>
                 </li>
-                <li><a href="info">Info</a></li>
+                <li><a href="info">Video Info</a></li>
                 <li><a href="./">Home page</a></li>
                 <!-- <li><a href="registerForm">Register</a></li> -->
                 <div class="pull-right">
